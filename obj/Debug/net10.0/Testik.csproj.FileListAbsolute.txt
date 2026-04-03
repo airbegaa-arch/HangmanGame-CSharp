@@ -1,0 +1,17 @@
+C:\Scripts\C#\Testik\bin\Debug\net10.0\Testik.exe
+C:\Scripts\C#\Testik\bin\Debug\net10.0\Testik.deps.json
+C:\Scripts\C#\Testik\bin\Debug\net10.0\Testik.runtimeconfig.json
+C:\Scripts\C#\Testik\bin\Debug\net10.0\Testik.dll
+C:\Scripts\C#\Testik\bin\Debug\net10.0\Testik.pdb
+C:\Scripts\C#\Testik\obj\Debug\net10.0\Testik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Scripts\C#\Testik\obj\Debug\net10.0\Testik.AssemblyInfoInputs.cache
+C:\Scripts\C#\Testik\obj\Debug\net10.0\Testik.AssemblyInfo.cs
+C:\Scripts\C#\Testik\obj\Debug\net10.0\Testik.csproj.CoreCompileInputs.cache
+C:\Scripts\C#\Testik\obj\Debug\net10.0\Testik.dll
+C:\Scripts\C#\Testik\obj\Debug\net10.0\refint\Testik.dll
+C:\Scripts\C#\Testik\obj\Debug\net10.0\Testik.pdb
+C:\Scripts\C#\Testik\obj\Debug\net10.0\Testik.genruntimeconfig.cache
+C:\Scripts\C#\Testik\obj\Debug\net10.0\ref\Testik.dll
+C:\Scripts\C#\Testik\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Scripts\C#\Testik\obj\Debug\net10.0\Testik.csproj.AssemblyReference.cache
+C:\Scripts\C#\Testik\obj\Debug\net10.0\Testik.csproj.Up2Date

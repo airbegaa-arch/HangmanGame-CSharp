@@ -1,0 +1,26 @@
+﻿class Program
+{
+    static void Main()
+    {
+        int[] inNumbers = { 150, -200, -1};
+
+        ogeMetod(inNumbers);
+
+        void ogeMetod(int[] massiv)
+        {
+            int sum = 0;
+            int sumPolOtr = 0;
+            foreach (int num in massiv)
+            {
+                sum += num;
+                if (num > 0) sumPolOtr++;
+                else sumPolOtr--;
+            }
+            int[] vivod = {sum, sumPolOtr };
+            foreach (int num in vivod)
+            {
+                Console.Write(num + " ");
+            }
+        }
+    }
+}
