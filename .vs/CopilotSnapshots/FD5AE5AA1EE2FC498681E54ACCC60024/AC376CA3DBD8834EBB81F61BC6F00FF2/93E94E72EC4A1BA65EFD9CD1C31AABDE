@@ -1,8 +1,0 @@
-﻿class Program
-{
-    static void Main()
-    {
-        string name = "ABCDEF";
-        name[3] = 'B';
-    }
-}
